@@ -1,18 +1,3 @@
-<!--
-**UPTPC/UPTPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 💻 Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
 
 <p align="center">
@@ -21,55 +6,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 🚀 Repositorio de Configuración para Proyectos de Estudiantes
-
-Este repositorio nace con la finalidad de centralizar y facilitar la configuración de las subidas de archivos en los sistemas desarrollados por los estudiantes de la Universidad Politécnica Territorial de Puerto Cabello (UPTPC).
-
----
-
-### Guía para crear tu repositorio personal de proyecto
-
-A continuación, te explicamos el proceso para crear tu repositorio de proyecto de manera automática dentro de la organización UPTPC. Este proceso es rápido y te garantiza que tu repositorio esté listo para ser usado con las configuraciones adecuadas.
-
-**Paso 1: Ir a la herramienta de creación**
-Ve a la siguiente página web para comenzar:
-[https://uptpc.github.io/proyecto-automatizacion/](https://uptpc.github.io/proyecto-automatizacion/)
-
-**Paso 2: Completar el formulario**
-En la página, encontrarás dos campos:
-* **Nombre del Repositorio:** Escribe un nombre corto y descriptivo para tu repositorio (máximo 80# proyecto-automatizacion
-
-Proyecto Automatización de Repositorios en Organizacion UPTPC
-
-<!--
-**UPTPC/UPTPC** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-* 🔭 I’m currently working on ...
-
-* 🌱 I’m currently learning ...
-
-* 👯 I’m looking to collaborate on ...
-
-* 🤔 I’m looking for help with ...
-
-* 💬 Ask me about ...
-
-* 📫 How to reach me: ...
-
-* 😄 Pronouns: ...
-
-* ⚡ Fun fact: ...
-  \-->
-
-# 💻 Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
-
-<p align="center">
-<a href="https://www.uptpc.edu.ve/">
-<img src="https://i.ibb.co/ZzBd0nQ1/LOGO.png" alt="Logo de la UPTPC" width="200"/>
-</a>
-</p>
 
 ## 🚀 Repositorio de Configuración para Proyectos de Estudiantes
 
