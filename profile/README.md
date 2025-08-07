@@ -1,4 +1,8 @@
 # 💻 Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
+# 💻 Repositorio Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
+# 💻 Repositorio UPTPC
+# 💻 Repositorios UPTPC
+
 
 <p align="center">
   <a href="https://www.uptpc.edu.ve/">
