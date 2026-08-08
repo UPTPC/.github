@@ -1,7 +1,6 @@
 # 💻 Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
-# 💻 Repositorio Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
-# 💻 Repositorio UPTPC
-# 💻 Repositorios UPTPC
+## 💻 Repositorio Universidad Politécnica Territorial de Puerto Cabello (UPTPC)
+## 💻 Repositorio UPTPC
 
 
 <p align="center">
@@ -118,4 +117,4 @@ Actualmente en la Universidad Politecnica Territorial de Puerto Cabello ofrecemo
 ### 🌐 Repositorio Institucional en Telegram
 Únete a nuestra comunidad y mantente al día con las novedades del SEREINF y los proyectos de la universidad.
 
-[**Canal de Telegram Jornaltec**](https://t.me/jornaltec)
+[**Canal de Telegram Jornaltec**](https://t.me/uptpc_oficial)
